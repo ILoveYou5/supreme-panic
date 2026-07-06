@@ -463,3 +463,7 @@ except Exception as e:
 
 ## 结束 program #2 / End of program #2
 
+# 下面是最近整理的一些心得，讲如何规划一条产线和对应的工艺;/ Below is my own understanding of how to design a production line #
+## 以下开始 program #3 / here begins program #3
+如何设计一条产线？
+设定产线的核心指标：年产能（20W或者40W），OEE指标（80%或85%），
